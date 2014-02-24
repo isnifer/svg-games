@@ -1,0 +1,5 @@
+.idea
+.ftppass
+node_modules
+assets/snap/*
+!assets/snap/dist
